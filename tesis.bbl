@@ -1,0 +1,163 @@
+\begin{thebibliography}{26}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Arias(2012)}]{arias}
+F.~Arias.
+\newblock \emph{El proyecto de investigaci\'on. Introducci\'on a la
+  metodolog\'ia cient\'ifica}.
+\newblock Episteme, 2012.
+
+\bibitem[{Belle et~al.(2004)Belle, Fisher, Heagerty, y Lumley}]{belle}
+G.~Belle, Ll. Fisher, P.~Heagerty, y T.~Lumley.
+\newblock \emph{Biostatistics. A methodology for the health sciences}.
+\newblock USA, 2004.
+
+\bibitem[{Boehm(1988)}]{spiral}
+Barry Boehm.
+\newblock A spiral model of software development and enhancement.
+\newblock Inf.\ t\'ec., TRW Defense Systems Group, 1988.
+
+\bibitem[{Cuevas y Rebolledo(2009)}]{bcs}
+D.~Cuevas y R.~Rebolledo.
+\newblock \emph{Diagn\'ostico sobre VIH/SIDA en Baja California Sur}, 2009.
+
+\bibitem[{de~Venezuela(2014)}]{narrative}
+Republica~Bolivariana de~Venezuela.
+\newblock Informe nacional de avances e la implementaci\'on de la declaraci\'on
+  de compromisos sobre vih/sida (2001) y la declaraci\'on pol\'itica sobre el
+  vih/sida (2011).
+\newblock Inf.\ t\'ec., Programa Nacional SIDA/ITS del Ministerio del Poder
+  popular para la Salud, 2014.
+
+\bibitem[{Delgado y Llorca(2004)}]{delgado}
+M.~Delgado y J.~Llorca.
+\newblock Estudios longitudinales: concepto y particularidades.
+\newblock \emph{Revista Espa{\~n}ola de salud P\'ublica}, 2004.
+
+\bibitem[{Grunsky(2002)}]{grun}
+E.~Grunsky.
+\newblock \emph{R: a data analysis and statistical programming environment --
+  an emerging tool for the geosciences}.
+\newblock Computers Geosciences, 2002.
+
+\bibitem[{Hurtado(2000)}]{hurtado}
+J.~Hurtado.
+\newblock \emph{Metodlog\'ia de la investigaci\'on hol\'istica}.
+\newblock Fundaci\'on SYPAL, 2000.
+
+\bibitem[{Konig et~al.(2018)Konig, Klaus, y Burger}]{runit}
+T.~Konig, J.~Klaus, y M.~Burger.
+\newblock Runit - a unit test framework for r.
+\newblock Inf.\ t\'ec., CRAN, 2018.
+
+\bibitem[{Le\'on y Jaimes(2015)}]{latreia}
+Alba Le\'on y Fabi\'an Jaimes.
+\newblock Ronda cl\'inica y epidemiol\'ogica. an\'alisis de datos
+  longitudinales.
+\newblock \emph{Latreia}, 2015.
+
+\bibitem[{Lu(2016)}]{mixed}
+Xiang Lu.
+\newblock \emph{Handling incomplete high-dimesional multivariate longitudinal
+  data with mixed data types by multiple imputation using a longitudinal factor
+  analysis model}.
+\newblock Tesis Doctoral, University of California, Los Angeles, 2016.
+
+\bibitem[{Morles(1994)}]{morles}
+V.~Morles.
+\newblock \emph{Planeamiento y analisis de investigaciones}.
+\newblock El Dorado, 1994.
+
+\bibitem[{MPPS(2014)}]{mpps}
+MPPS.
+\newblock \emph{Gu\'ia de tratamiento antiretroviral de las personas que viven
+  con el VIH/SIDA en Venezuela}, 2014.
+
+\bibitem[{Mu\~noz et~al.(2009)Mu\~noz, Orcau, y Cayl\`{a}}]{tuberculosis}
+M.~Pilar Mu\~noz, Angels Orcau, y Joan Cayl\`{a}.
+\newblock Tuberculosis en barcelona: M\'odelo predictivo basado en series
+  temporales.
+\newblock \emph{Revista Espa\~nola de Salud P\'ublica}, 2009.
+
+\bibitem[{Oleta et~al.(2012)Oleta, Godoy, y Carvajal}]{alerta}
+Jos\'e~Felix Oleta, Oswaldo Godoy, y Ana Carvajal.
+\newblock Alerta epidemiol\'ogica n-241, algunos aspectos epidemil\'ogicos del
+  vih/sida en venezuela.
+\newblock \emph{Red de sociedades cient\'ificas m\'edicas venezolanas}, 2012.
+
+\bibitem[{OMS(2009)}]{oms}
+OMS.
+\newblock Definici\'on de la oms de caso de infecci\'on por el vih a efectos de
+  vigilancia y revisi\'on de la estadificaci\'on cl\'inica y de la
+  clasificaci\'on inmunol\'ogica de la enfermedad relacionada con el vih en
+  adultos y ni{\~n}os.
+\newblock Inf.\ t\'ec., Organizacion Mundial de la Salud, 2009.
+
+\bibitem[{Pallela y Martins(2012)}]{pallela}
+S.~Pallela y F.~Martins.
+\newblock \emph{Metodolog\'ia de la investigaci\'on cuantitativa}.
+\newblock Fondo Editorial de la Universidad Experimental Libertador, 2012.
+
+\bibitem[{Ramduth(2011)}]{ramduth}
+D.~Ramduth.
+\newblock \emph{Characterization od CD4+ and CD8+ T cell responses in HIV-1
+  C-clade infection}.
+\newblock Tesis Doctoral, Nelson Mandela school od Medicine, University of
+  KwaZulu-Natal, 2011.
+
+\bibitem[{Rizopoulos(2018)}]{jm}
+D.~Rizopoulos.
+\newblock Join modeling of longitudinal and survival data.
+\newblock Inf.\ t\'ec., CRAN, 2018.
+
+\bibitem[{R\'ua et~al.(2013)R\'ua, Su\'arez-Acosta, Chauca, Ventosilla, y
+  Almanza}]{dengue}
+Guillermo R\'ua, Carolina Su\'arez-Acosta, Jos\'e Chauca, Palmira Ventosilla, y
+  Rita Almanza.
+\newblock Modelado del efecto de la variabilidad clim\'atica local sobre la
+  transmisi\'on de dengue en medell\'in (colombia) mediante an\'alisis de
+  series temporales.
+\newblock \emph{Biom\'edica}, 2013.
+
+\bibitem[{Sharrow(2013)}]{life}
+D.~Sharrow.
+\newblock Hiv calibrated model life tables for countries with generalized hiv
+  epidemics.
+\newblock Inf.\ t\'ec., CRAN, 2013.
+
+\bibitem[{Tran(2016)}]{hiv}
+Linh~Mai Tran.
+\newblock \emph{Comparative causal effect estimation and robust variance for
+  longitudinal data structures with applications to observational HIV
+  treatment}.
+\newblock Tesis Doctoral, University of California, Berkeley, 2016.
+
+\bibitem[{Welch(2015)}]{health}
+Catherine Welch.
+\newblock \emph{Implementation, evaluation and application of multiple
+  imputation for missing data in longitudinal electronic healt record
+  research}.
+\newblock Tesis Doctoral, University of London, 2015.
+
+\bibitem[{Wickham(2017)}]{test}
+H.~Wickham.
+\newblock Unit testing for r.
+\newblock Inf.\ t\'ec., CRAN, 2017.
+
+\bibitem[{Xie(2017)}]{format}
+Y.~Xie.
+\newblock Format r code automatically.
+\newblock Inf.\ t\'ec., CRAN, 2017.
+
+\bibitem[{Zhang(2009)}]{zhang}
+Bo~Zhang.
+\newblock \emph{Linear mixed models}.
+\newblock Tesis Doctoral, University of Minnesota, 2009.
+
+\end{thebibliography}

@@ -1,0 +1,63 @@
+\chapter{El problema}
+
+\section{Planteamiento y formulaci\'on}
+
+Actualmente todas las organizaciones se ven forzadas al uso de la tecnolog\'ia como herramienta para desenvolverse con mayor eficiencia y eficacia en el desempe\~no de sus funciones. En la gesti\'on de la salud, la evaluaci\'on cl\'inica de los pacientes genera una serie de informaci\'on m\'edica y administrativa sobre los mismos. Esta informaci\'on a su vez, se registra en varios documentos f\'isicos o en formato digital, siendo el conjunto de \'estos lo que constituye la historia cl\'inica. \\
+
+En los hospitales y centros cl\'inicos ambulatorios del Estado M\'erida, as\'i como en los diversos establecimientos de salud del pa\'is, la historia m\'edica es un componente b\'asico en el registro y seguimiento de los pacientes, as\'i pues se tratan en dichas instituciones; por ende este componente debe ser una herramienta de trabajo, garantizando el adecuado tratamiento de todos los pacientes. \\
+
+No obstante, tanto el incremento del uso de la tecnolog\'ia y su evoluci\'on no son m\'otivo suficiente para justificar el uso de esta aplicaci\'on, hay razones importantes, como lo es el optimizar la b\'usqueda de informaci\'on registrada en el tiempo, acerca de una enfermedad o s\'intoma entre otros t\'opicos, ya pues en muchas ocasiones la informaci\'on obtenida no se encuentra almacenada en varios formatos o medios para facilitar su uso. Sino se encuentran solo en archivos originales o no se han registrado de manera formal. \\ 
+
+Para los pacientes con VIH en Venezuela, se debe realizar una historia cl\'inica completa, el cual debe contemplar la fecha de la primera serolog\'ia positiva para el VIH y tipo de prueba realizada, contaje de linfocitos $T^{+}CD4$ y la carga viral, identificaci\'on de coinfecciones, describir la sintomatolog\'ia presente y revisar algunos antecedentes familiares con respecto a enfermedades cardiov\'asculares; todo ello se realiza de manera manual en la mayor\'ia de los casos, o disponen de un sistema no muy actualizado, y no se sabe con exactitud cu\'al es el estado actual de los pacientes, si est\'an siguiendo el tratamiento, si han presentado una mejora y no volvieron al tratamiento o en el peor de los casos, abandonaron el tratamiento por presentar un desmejoramiento. \\
+
+El tratamiento ha evolucionado con respecto al tiempo. Con relaci\'on a esto \citet{mpps} indica que: \\
+
+\begin{quote}
+Los conocimientos cient\'ificos han evolucionado de manera sorprendente en los \'ultimos a\~nos en relaci\'on a la estructura molecular, la etiopatogenia y el tratamiento de la infecci\'on por el virus de inmunodeficiencia humana (VIH), lo que ha tra\'ido con consecuencia al desarrollo de nuevas tecnolog\'ias incluyendo nuevos medicamentos con diferentes mecanismos de acci\'on que son capaces de inhibir la replicaci\'on viral y con ello detener la progresi\'on de la enfermedad y disminuir la mortalidad, as\'i como, coformulaciones que permiten mejor prescripci\'on y mejor calidad de vida de las personas con VIH.
+\end{quote} 
+ 
+
+
+Esta evoluci\'on de la ciencia, ha tra\'ido consigo una tasa de cambio, entre crecer y declinar diversas transiciones entre estados de salud, una correlaci\'on del efecto en el tiempo. \\
+
+Para tener un mejor seguimiento del tratamiento, por parte de los cient\'ificos, es indispensable determinar la progresi\'on del tratamiento y la enfermedad, pudiendo predecir el avance de la misma, lo cual, no se dispone de tales herramientas resultando un poco engorroso por la cantidad de informaci\'on proporcionada por los pacientes, con la necesidad de hacer seguimiento de varios a\~nos para adecuar los tratamientos, seg\'un los estadios en que se encuentren los pacientes en ese momento. \\
+
+	Con base en esto, se propone el desarrollo de un sistema para permitir hacer un an\'alisis temporal haciendo uso de t\'ecnicas de predicciones, el cual incluyen aspectos como la infecci\'on inmunol\'ogica y virol\'ogica, la fecha del diagn\'ostico, el comportamiento de la infecci\'on en determinados a\~nos, el aspecto de la zona de vivienda, tanto si es urbano o rural, y en que influye en su comportamiento, las comorbilidades con otras infecciones; resulta interesante realizar este enfoque temporal para comprender, intervenir y prevenir la diseminaci\'on de esta enfermedad.\\
+	
+	 En este caso se quiere realizar un an\'alisis temporal, en el Estado M\'erida, representado o confeccionado por la fecha de las revisiones, la fecha del tratamiento y su diagn\'ostico; tambi\'en permita determinar los factores y los marcadores biol\'ogicos asociados a la progresi\'on de la enfermedad y evaluar la efectividad de los tratamientos, determinando el m\'etodo de supervivencia, el periodo de incubaci\'on del SIDA y la seroconversi\'on al VIH; lo cual propone una soluci\'on a la problem\'atica anteriormente expresada. \\
+
+Es por esta raz\'on, en el presente trabajo se propone la implementaci\'on de una aplicaci\'on web haciendo uso del an\'alisis temporal para el estudio de pacientes con VIH, como caso de estudio particular pacientes con VIH del programa para ITS/VIH/SIDA del Instituto Aut\'onomo Hospital Universitario de los Andes (IAHULA); desde el a\~no 2007, ubicado en la ciudad de M\'erida, Estado M\'erida, Venezuela, por criterios de \'etica y marco legal, el autor y tutor de este trabajo declar\'an desconocer informaci\'on para facilitar la identificaci\'on particular de ning\'un paciente, poniendo de alguna forma en riesgo su privacidad. \\ 
+
+Adicionalmente, esta investigaci\'on podr\'a servir de apoyo para el desarrollo de futuras aplicaciones tecnol\'ogicas en el campo de los vectores virales, no solo ser\'a representado por pacientes de VIH sino dem\'as enfermedades ya pues representan cargas virales, partiendo de los procesos de detecci\'on y clasificaci\'on aqu\'i expuestos.
+
+\section{Objetivos}
+
+\subsection{Objetivo general}
+
+Desarrollar una aplicaci\'on web para el estudio de datos longitudinales para el seguimiento de la infecci\'on por el Virus de Inmunodeficiencia Humana. Caso de estudio: Instituto Auton\'omo Hospital Universitario de los Andes.
+
+\subsection{Objetivos espec\'ificos}
+ 
+\begin{itemize}
+\item Diagnosticar la informaci\'on obtenida en la base de datos suministrada por el Instituto Auton\'omo Hospital Universitario de los Andes.
+\item Analizar de manera exploratoria y descriptiva los datos para la selecci\'on de las variables a utilizar en el m\'odelo a implementar.
+\item Implementar un m\'odelo para el manejo de datos longitudinales en una aplicaci\'on web.
+\item Aplicar pruebas de funcionalidad en la aplicaci\'on.
+
+\end{itemize}
+
+\section{Justificaci\'on e importancia}
+
+	El desarrollo de un sistema para realizar un an\'alisis temporal en pacientes con VIH representa una herramienta para el apoyo adecuado a expertos en la epidemiolog\'ia, inmunolog\'ia o cualquier \'area de la medicina, proporcionando una mejor atenci\'on a pacientes ya diagnosticados de VIH.\\
+
+	Adem\'as, el gobierno nacional no presenta ning\'un informe desde el a\~no 2014 y ofrece cifras no reales con respecto a la incidencia y por ende crecimiento de la enfermedad y su mortalidad en el pa\'is, los datos de la prevalencia del VIH/SIDA en Venezuela, en poblaci\'on general son escasos, y resulta desalentador porque se destaca la carencia de estudios epidemiol\'ogicos \textit{\citet{alerta}} y en dicho informe se designa una cantidad exorbitante de dinero para tratamiento del cual no se sabe a ciencia cierta donde se dirige, es por ello que resulta conveniente esclarecer estos datos, y por ello es indispensable. \\
+		
+	Las t\'ecnicas utilizadas en este trabajo especial de grado tambi\'en constituir\'an un gran aporte para la Universidad Nacional Experimental del T\'achira y el pa\'is, ya que dichas t\'ecnicas no han sido ampliamente usadas en el \'area de la salud, lo cual aporta un gran avance en la investigaci\'on de esta \'area en el pa\'is. \\
+
+	El estudio realizado podr\'a ser usado en futuras investigaciones, viendo c\'omo influyen algunos factores en el desplazamiento de la infecci\'on y su propagaci\'on, y no solo ser\'a para pacientes con VIH sino cualquier vector viral.
+	
+\section{Alcance y limitaciones}
+
+	La meta final es desarrollar un sistema inform\'atico, puesto sea capaz de determinar de forma autom\'atica, a trav\'es de un seguimiento de los chequeos m\'edicos peri\'odicos, como la enfermedad ha variado, si el tratamiento est\'a haciendo efecto, y como influyen los factores transversales y temporales en los pacientes, para lograr un mejor entendimiento de la progresi\'on del virus en el hu\'esped. \\
+	
+	Una vez definido el alcance, es necesario denotar las limitaciones de la investigaci\'on, solo se limitar\'a al estudio de los casos registrados de pacientes diagnosticados previamente de la infecci\'on, no abarcando otros posibles enfoques como lo es la selecci\'on de un mejor modelo para agruparlos datos asociados a los pacientes ni la detecci\'on de otras anomal\'ias asociadas a la infecci\'on, lo cuales no est\'an contemplados en los objetivos propuestos.

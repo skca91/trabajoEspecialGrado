@@ -1,0 +1,23 @@
+\chapter{Conclusiones y recomendaciones}
+
+Se diagnostic\'o la informaci\'on obtenida de la base de datos que fue suministrada por el Instituto Aut\'onomo Hospital Universitario de los Andes, con el fin de filtrar los datos que all\'i estaban expuestos para preservar la identidad de los pacientes, y escoger los datos y variables que mejor se adaptaron al desarrollo de la aplicaci\'on. Para un mejor analisis de los resultados, se agruparon los pacientes por municipios del estado M\'erida, con el fin de realizar un mejor ubicaci\'on geoespacial, con la debida visualizaci\'on y representaci\'on en el mapa. \\
+
+La base de datos una vez filtrada, permiti\'o analizar de manera exploratoria y descriptiva, la selecci\'on de las variables que se implementaron en el modelo; las cuales hicieron referencia a los diferentes resultados de las pruebas con respecto a la seroconversion del VIH, muestras de datos que el paciente se hace con regularidad, es decir, el conteo de la carga viral plasmatica, un dato relevante e indispensable para el modelo, as\'i como el conteo de las celulas $T^{+}CD4$ y  $T^{+}CD8$. Algunos datos que fueron tomados en cuenta para el analisis fueron los demogr\'aficos:  la edad, el genero, el periodo y el municipio donde reside el paciente para esta investigaci\'on se trabajo como caso de estudio el estado M\'erida. \\
+
+
+Se implement\'o un modelo lineal mixto, porque es ampliamente utilizado en el analisis de datos longitudinales, especificamente en el \'area de la medicina en el seguimiento de cohortes de pacientes, además su implementaci\'on en R, permiti\'o que pueda estimarse en un ambiente WEB, sin el uso de recursos computacionales de altas prestaciones.\\
+
+Se realizaron las debidas pruebas de funcionalidad a la aplicaci\'on en cada etapa de desarrollo de la metodologia, as\'i como tambi\'en las pruebas de caja blanca con las herramientas de R antes mecionadas en el capítulo 4, permitiendo demostrar su operatividad en el manejo de los fallos.\\
+
+Finalmente, destaca su uso como herramienta de an\'alisis descriptivo de la incidencia del VIH en el estado M\'erida para el estudio de  datos de tipo  longitudinal, el cual por estar desarrollado con una herramienta en la que se trabaja bajo el esquema colaborativo, es una herramienta de fácil mantemiento y escalable, y aunque las pruebas de funcionabilidad se realizaron sólo considerando los marcadores inmunol\'ogicos y virol'ogicos disponibles en las vistas minables obtenidos en el filtrado de los datos, tambi\'en puede considerarse evaluar con el modelo lineal mixto, el impacto de las coinfecciones con otros virus, las condiciones de medicación, grupos de riesgo, entre otras variables.\\
+
+\section{Recomendaciones}
+
+Implementar el modelo a los diferentes estados del pa\'is, incluyendo las vistas minables del los otros estados que se encuentran almacenadas en la base de datos del Laboratorio de Investigaciones Hormonales del Instituto Aut\'onomo Hospital Universitario de los Andes.\\
+
+Unificar esfuerzos con organismos de salud p\'ublicos y privados para el desarrollo de una aplicaci\'on que unifique tanto la incidencia del virus como hacer analisis predictivos de la misma.\\
+
+
+
+ 
+

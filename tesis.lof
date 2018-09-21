@@ -1,0 +1,48 @@
+\babel@toc {spanish}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Una muestra de trayectorias CD4 individuales de los datos del Estudio Multi-Centro de Cohorte contra el SIDA. Belle, G. (2004).}}{13}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Las trayectorias $T^{+}CD4$ individuales de los datos de la carga viral. Belle, G. (2004).}}{16}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Mapa del Estado M\'erida con sus municipios. Alcaldia del Estado M\'erida (2016)}}{21}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Interfaz de RStudio (Versi\'on 1.1.453)}}{23}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Aplicaci\'on en Shiny}}{24}{figure.2.5}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Modelo espiral del proceso de \textit {software} Boehm B. (1988).}}{30}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Wireframe base de la interfaz gr\'afica de usuario}}{31}{figure.3.2}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Configuraci\'on b\'asica de la aplicaci\'on }}{34}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Creaci\'on de los manuales del paquete}}{35}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Cuenta alojada de GitHub de la aplicaci\'on}}{36}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Implementaci\'on en R de la carga de archivo}}{37}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Algoritmo usado para filtrar la informaci\'on}}{38}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Implementaci\'on en R del gr\'afico de torta}}{38}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Implementaci\'on en R del histograma}}{38}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Implementaci\'on en R de la selecci\'on de las cargas}}{39}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces F\'ormula utilizada en el m\'odelo lineal mixto}}{39}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Implementaci\'on de los residuos de la validaci\'on del modelo}}{40}{figure.4.10}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Estructura b\'asica del archivo reporte.Rmd}}{40}{figure.4.11}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Implementaci\'on en R de la visualizaci\'on del mapa}}{41}{figure.4.12}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Paquete cargado en las librerias de R}}{42}{figure.4.13}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Pantalla de inicio de HIVmlm}}{49}{figure.Alph2.1}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Pantalla de la carga del archivo}}{50}{figure.Alph2.2}
+\contentsline {figure}{\numberline {B.3}{\ignorespaces Carga de archivo en la aplicaci\'on}}{50}{figure.Alph2.3}
+\contentsline {figure}{\numberline {B.4}{\ignorespaces Selecci\'on del archivo a cargar}}{51}{figure.Alph2.4}
+\contentsline {figure}{\numberline {B.5}{\ignorespaces Informaci\'on del archivo}}{51}{figure.Alph2.5}
+\contentsline {figure}{\numberline {B.6}{\ignorespaces Pantalla de la visualizaci\'on del mapa}}{52}{figure.Alph2.6}
+\contentsline {figure}{\numberline {B.7}{\ignorespaces Selecci\'on de un punto azul sobre el mapa}}{52}{figure.Alph2.7}
+\contentsline {figure}{\numberline {B.8}{\ignorespaces Visualizaci\'on del m\'odulo de Exploraci\'on de datos}}{53}{figure.Alph2.8}
+\contentsline {figure}{\numberline {B.9}{\ignorespaces Pantalla de los 3 paneles para visualizar graficamente los datos}}{53}{figure.Alph2.9}
+\contentsline {figure}{\numberline {B.10}{\ignorespaces Visualizaci\'on de la gr\'afica de torta por g\'enero}}{53}{figure.Alph2.10}
+\contentsline {figure}{\numberline {B.11}{\ignorespaces Pantalla con el histograma de edades}}{54}{figure.Alph2.11}
+\contentsline {figure}{\numberline {B.12}{\ignorespaces Pantalla del selector de la secci\'on cargas}}{54}{figure.Alph2.12}
+\contentsline {figure}{\numberline {B.13}{\ignorespaces Visualizaci\'on del gr\'afico de puntos}}{55}{figure.Alph2.13}
+\contentsline {figure}{\numberline {B.14}{\ignorespaces Pantalla con el m\'odulo ajuste del modelo}}{55}{figure.Alph2.14}
+\contentsline {figure}{\numberline {B.15}{\ignorespaces Pantalla con el selector del m\'odulo de ajuste del modelo}}{56}{figure.Alph2.15}
+\contentsline {figure}{\numberline {B.16}{\ignorespaces Pantalla con la informaci\'on del modelo lineal mixto}}{56}{figure.Alph2.16}
+\contentsline {figure}{\numberline {B.17}{\ignorespaces Pantalla selecci\'on de las variables de la validaci\'on del modelo}}{57}{figure.Alph2.17}
+\contentsline {figure}{\numberline {B.18}{\ignorespaces Gr\'afica de la validaci\'on del modelo}}{57}{figure.Alph2.18}
+\contentsline {figure}{\numberline {B.19}{\ignorespaces Pantalla del bot\'on de descarga del reporte}}{57}{figure.Alph2.19}
+\contentsline {figure}{\numberline {B.20}{\ignorespaces Pantalla de guardar el reporte}}{58}{figure.Alph2.20}
